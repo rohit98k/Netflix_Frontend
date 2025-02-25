@@ -1,6 +1,6 @@
 const API_END_POINT = "https://netflix-backend-fawn.vercel.app/api/v1/user";
 
-export default API_END_POINT;
+export default API_END_POINT; 
 
 export const options = {
   method: "GET",
