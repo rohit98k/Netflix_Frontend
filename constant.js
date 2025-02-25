@@ -1,4 +1,4 @@
-const API_END_POINT = "http://localhost:2000/api/v1/user";
+const API_END_POINT = "https://netflix-backend-fawn.vercel.app/api/v1/user";
 
 export default API_END_POINT;
 
